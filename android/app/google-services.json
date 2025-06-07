@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544787702985",
+    "project_id": "lockify-3907a",
+    "storage_bucket": "lockify-3907a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544787702985:android:a6d7caea9744667e8fd918",
+        "android_client_info": {
+          "package_name": "com.example.lockify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1UjGtnbuCzoXnQes8UPyKkY_ZKAyPRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
