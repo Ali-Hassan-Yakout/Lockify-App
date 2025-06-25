@@ -72,7 +72,9 @@ Designed in **EasyEDA**, the custom PCB:
 
 ## 📷 Interface
 
-> [Click here](https://drive.google.com/file/d/1NjUE8evuCRzGWF_NQTcrb2HZdYM41f_H/view?usp=drive_link)
+> [Mobile](https://drive.google.com/file/d/1NjUE8evuCRzGWF_NQTcrb2HZdYM41f_H/view?usp=drive_link)
+> [Embedded](https://drive.google.com/file/d/1ZTTSjq7mYW8YOeCLef8pRwO5g1CNkfME/view?usp=drive_link)
+
 
 ---
 
